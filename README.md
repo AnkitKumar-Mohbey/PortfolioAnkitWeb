@@ -41,7 +41,10 @@ The webpage includes a special feature of Day and Night modes, which can be togg
   <img src="https://img.icons8.com/color/64/000000/moon-satellite.png"/>
 </p>
 
+<!-- _______________________________________________________________________________________________________ -->
+
 ## Contributing
+
 I welcome contributions from anyone who is interested in improving this website. If you find a bug or have a suggestion for an improvement, please create an issue or submit a pull request.
 
 To get started with contributing, you can follow these steps:
@@ -50,34 +53,36 @@ To get started with contributing, you can follow these steps:
 
 2. Clone the forked repository to your local machine.
 
-sh
-Copy code
-git clone https://github.com/your-username/PortfolioAnkit.git
+   ```sh
+   git clone https://github.com/your-username/PortfolioAnkit.git
+   ```
 
 3. Create a new branch for your changes.
 
-sh
-Copy code
-git checkout -b new-branch-name
+   ```sh
+   git checkout -b new-branch-name
+   ```
 
 4. Make your changes and commit them.
 
-sh
-Copy code
-git add .
-git commit -m "Your commit message"
+   ```sh
+   git add .
+   git commit -m "Your commit message"
+   ```
 
 5. Push your changes to your forked repository.
 
-sh
-Copy code
-git push origin new-branch-name
+   ```sh
+   git push origin new-branch-name
+   ```
 
 6. Create a pull request from your forked repository to the original repository.
 
 I appreciate all contributions made to this repository.
 
 
+
+<!-- _______________________________________________________________________________________________________ -->
 ## License
 
 This portfolio is licensed under the MIT License. See the LICENSE file for more information.
